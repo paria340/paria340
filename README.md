@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @paria340
-- 👀 I’m interested in ... hiking, skiing, beaches and CODING!
-- 🌱 I’m currently learning ... ruby on rails after the compeletion of my Web Dev immersive BootCamp!
+- 👀 I’m interested in ... hiking and CODING!
+- 🌱 I’m currently airming to master Java and start learning Ruby on Rails!
 - 💞️ I’m looking to collaborate on projects, to learn and grow my coding skills!
 - 📫 How to reach me ... paria340@gmail.com
 
