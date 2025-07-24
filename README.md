@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @paria340
-- 🌱 I’m looking to collaborate on projects, to learn and grow my coding skills!
+- 🌱 I’m looking to collaborate on projects, to learn, grow and contribute!
 - 📫 How to reach me ... paria340@gmail.com
 
 <!---
