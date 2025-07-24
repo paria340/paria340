@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @paria340
-- 👀 I’m interested in ... CODING in Java, None.js, React and Vue.js!
-- 🌱 I’m currently learning Ruby on Rails!
-- 💞️ I’m looking to collaborate on projects, to learn and grow my coding skills!
+- 🌱 I’m looking to collaborate on projects, to learn and grow my coding skills!
 - 📫 How to reach me ... paria340@gmail.com
 
 <!---
